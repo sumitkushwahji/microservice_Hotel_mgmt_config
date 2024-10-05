@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: Config-Default  # Application name
 eureka:
   instance:
     hostname: localhost  # Hostname
